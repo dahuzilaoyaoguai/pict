@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T10:01:49.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="7DAyQ-enILdfiJ01A5-j" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T11:51:50.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="xeKpOzopYfWQerAsIYga" version="12.8.8" type="github">
   <diagram id="pQbSXTKy-mhwdIOJWXm_" name="第 1 页">
     <mxGraphModel dx="1640" dy="435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jV6rehnpYOMUCbgezzGA-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-633" y="122" width="330" height="51" as="geometry" />
+          <mxGeometry x="-629" y="122.5" width="320" height="46" as="geometry" />
         </mxCell>
         <mxCell id="HVEDHRJs2gfJGulLlyRD-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="450" width="120" height="60" as="geometry" />
@@ -25,11 +25,53 @@
         <mxCell id="jV6rehnpYOMUCbgezzGA-2" value="贷前" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="-614" y="133" width="54" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="jV6rehnpYOMUCbgezzGA-3" value="业务层&lt;br&gt;（基础校验、订单状态、同步处理中、异步回调）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-629" y="191" width="322" height="43" as="geometry" />
+        <mxCell id="jV6rehnpYOMUCbgezzGA-3" value="业务层" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-631" y="191" width="322" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="jV6rehnpYOMUCbgezzGA-4" value="协议层&lt;br&gt;（接口适配、报文协议、安全协议、）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-629" y="255" width="322" height="43" as="geometry" />
+        <mxCell id="jV6rehnpYOMUCbgezzGA-4" value="协议层" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-629" y="295" width="324" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-8" value="&lt;span style=&quot;font-size: 12px&quot;&gt;基础校验&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-619" y="226" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-9" value="&lt;span style=&quot;font-size: 12px&quot;&gt;订单状态&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-542" y="226" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-10" value="&lt;span style=&quot;font-size: 12px&quot;&gt;同步任务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-461" y="226" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-11" value="&lt;span style=&quot;font-size: 12px&quot;&gt;异步回调&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-376" y="226" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-12" value="&lt;span style=&quot;font-size: 12px&quot;&gt;合作方式&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-616.5" y="327" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-13" value="&lt;span style=&quot;font-size: 12px&quot;&gt;接口适配&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="327" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-14" value="&lt;span style=&quot;font-size: 12px&quot;&gt;通信协议&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-459" y="327" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-15" value="&lt;span style=&quot;font-size: 12px&quot;&gt;安全协议&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-374" y="327" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-20" value="&lt;span style=&quot;font-size: 12px&quot;&gt;序列化协议&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-621" y="368" width="73" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-21" value="&lt;span style=&quot;font-size: 12px&quot;&gt;错误码转换&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="370" width="73" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="368" width="73" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-40" value="托管平台&lt;br&gt;qunarloan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-615" y="443" width="73" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-41" value="NJCASH" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-504.5" y="443" width="73" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-42" value="SCLOAN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="443" width="73" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
