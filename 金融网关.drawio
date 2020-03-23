@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T11:51:50.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="xeKpOzopYfWQerAsIYga" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-23T11:57:10.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="aylR3mhuzUdDEfzD7Oei" version="12.8.8" type="github">
   <diagram id="pQbSXTKy-mhwdIOJWXm_" name="第 1 页">
-    <mxGraphModel dx="1640" dy="435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,74 @@
         </mxCell>
         <mxCell id="jV6rehnpYOMUCbgezzGA-42" value="SCLOAN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="-390" y="443" width="73" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jV6rehnpYOMUCbgezzGA-43" target="jV6rehnpYOMUCbgezzGA-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-379" y="739.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-47" value="业务接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="jV6rehnpYOMUCbgezzGA-46">
+          <mxGeometry x="-0.1803" relative="1" as="geometry">
+            <mxPoint x="7.43" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="jV6rehnpYOMUCbgezzGA-43" target="jV6rehnpYOMUCbgezzGA-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-582.5" y="836" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-51" value="处理中—发起查询" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="jV6rehnpYOMUCbgezzGA-49">
+          <mxGeometry x="-0.1484" y="1" relative="1" as="geometry">
+            <mxPoint x="9.61" y="12.97" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-43" value="金融网关" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-619" y="723" width="73" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="jV6rehnpYOMUCbgezzGA-44" target="jV6rehnpYOMUCbgezzGA-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-53" value="回调通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="jV6rehnpYOMUCbgezzGA-52">
+          <mxGeometry x="-0.1647" y="1" relative="1" as="geometry">
+            <mxPoint x="-26.37" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-44" value="资金方" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-378" y="723" width="73" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="jV6rehnpYOMUCbgezzGA-58" target="jV6rehnpYOMUCbgezzGA-61" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-390" y="883.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-55" value="业务接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="jV6rehnpYOMUCbgezzGA-54">
+          <mxGeometry x="-0.1803" relative="1" as="geometry">
+            <mxPoint x="9.14" y="-2.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" source="jV6rehnpYOMUCbgezzGA-58" target="jV6rehnpYOMUCbgezzGA-61" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-593.5" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-57" value="处理中—原单发起" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="jV6rehnpYOMUCbgezzGA-56">
+          <mxGeometry x="-0.1484" y="1" relative="1" as="geometry">
+            <mxPoint x="9.61" y="12.97" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-58" value="金融网关" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-618" y="867" width="73" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" source="jV6rehnpYOMUCbgezzGA-61" target="jV6rehnpYOMUCbgezzGA-58" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-60" value="回调通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="jV6rehnpYOMUCbgezzGA-59">
+          <mxGeometry x="-0.1647" y="1" relative="1" as="geometry">
+            <mxPoint x="-26.37" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jV6rehnpYOMUCbgezzGA-61" value="资金方" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="-382" y="867" width="73" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
