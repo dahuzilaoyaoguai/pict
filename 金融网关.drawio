@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-03-20T09:19:59.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="VD1HXlR-JpXBromcuO09" version="12.8.8" type="github"><diagram id="pQbSXTKy-mhwdIOJWXm_" name="第 1 页">jZJNa4QwEIZ/TY4FTcraXqu7K0t7WaE9BzNrAtFIjFX766t14gfLQiGH5JmPzLwzhMVlf7a8lh9GgCY0ED1hCaE0fKaUTCcQw0yikM2gsEqg0woy9QMIA6StEtDsHJ0x2ql6D3NTVZC7HePWmm7vdjN6/2vNC7gDWc71Pf1SwsmZvtBo5SmoQvqfw8PrbCm5d8ZOGsmF6TaIHQmLrTFuvpV9DHoSz+syx50eWJfCLFTuPwHp5zFJr5eGFrfLudXvergmT5jlm+sWG8Zi3eAVsKatBExJQsLeOqkcZDXPJ2s3znxk0pUazZgOrIP+YZ3h0v24NmBKcHYYXXzAAQXDjaERvrtV/9CLKjfa+ziOIy+W1Ksq4wWF8c91AH+2zRqz4y8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-23T07:50:39.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="h5F59X7nMM1SltW4VxZE" version="12.8.8" type="github">
+  <diagram id="pQbSXTKy-mhwdIOJWXm_" name="第 1 页">
+    <mxGraphModel dx="395" dy="212" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HVEDHRJs2gfJGulLlyRD-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="47TmQyaTfyfTuBjJMVQk-1" value="业务层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="42" width="217" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="47TmQyaTfyfTuBjJMVQk-2" value="协议层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="91" width="215" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="47TmQyaTfyfTuBjJMVQk-3" value="贷前" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="67" y="129" width="35" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="47TmQyaTfyfTuBjJMVQk-4" value="贷中" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="113" y="129" width="35" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="47TmQyaTfyfTuBjJMVQk-5" value="&lt;font style=&quot;font-size: 10px&quot;&gt;贷后&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="160" y="129" width="35" height="16" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
