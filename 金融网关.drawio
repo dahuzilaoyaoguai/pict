@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-03-26T09:16:30.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="n4NCH_LGgQmu4NixsfP7" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-30T08:40:21.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="-Tb-aiNQ2ghXN4_0sl-c" version="12.9.3" type="github">
   <diagram id="pQbSXTKy-mhwdIOJWXm_" name="第 1 页">
-    <mxGraphModel dx="2622" dy="1562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2385" dy="1435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Zh9DPLkA23UePyNAktpm-85" value="&amp;nbsp; 基础服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=13;align=left;verticalAlign=middle;fontStyle=1;fillColor=#F1E3F7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-985" y="224" width="694" height="67.5" as="geometry" />
+          <mxGeometry x="-985" y="224" width="668" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="g_zkcs7ZYNfTT1dcq7fS-4" value="业务类接口" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-721" y="858" width="667" height="241" as="geometry" />
