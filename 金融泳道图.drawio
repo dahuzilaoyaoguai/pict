@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-02T11:20:48.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="TL3BsYZESNc4skx_HOTq" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-03T03:03:24.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="M5oopyXLdjHkb-l9fPxN" version="12.9.4" type="github">
   <diagram id="pQbSXTKy-mhwdIOJWXm_" name="第 1 页">
-    <mxGraphModel dx="2831" dy="1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2222" dy="713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,7 +270,7 @@
         <mxCell id="H9sjeu-FvnLb2K0w9W8j-60" value="基础校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="H9sjeu-FvnLb2K0w9W8j-47">
           <mxGeometry x="14" y="115" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H9sjeu-FvnLb2K0w9W8j-49" value="还款平台" style="swimlane;html=1;startSize=20;" vertex="1" parent="H9sjeu-FvnLb2K0w9W8j-46">
+        <mxCell id="H9sjeu-FvnLb2K0w9W8j-49" value="贷款平台" style="swimlane;html=1;startSize=20;" vertex="1" parent="H9sjeu-FvnLb2K0w9W8j-46">
           <mxGeometry x="140" width="120" height="480" as="geometry" />
         </mxCell>
         <mxCell id="H9sjeu-FvnLb2K0w9W8j-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="H9sjeu-FvnLb2K0w9W8j-49" source="H9sjeu-FvnLb2K0w9W8j-92" target="H9sjeu-FvnLb2K0w9W8j-64">
@@ -1037,11 +1037,8 @@
         <mxCell id="H9sjeu-FvnLb2K0w9W8j-600" value="DB" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-72" y="2385" width="172" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="H9sjeu-FvnLb2K0w9W8j-601" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="1">
-          <mxGeometry x="15" y="2409.5" width="28" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="H9sjeu-FvnLb2K0w9W8j-602" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="1">
-          <mxGeometry x="-27.25" y="2408" width="28" height="42" as="geometry" />
+          <mxGeometry x="-2" y="2409.5" width="28" height="42" as="geometry" />
         </mxCell>
         <mxCell id="H9sjeu-FvnLb2K0w9W8j-603" value="watcher" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-259" y="2387" width="172" height="91" as="geometry" />
@@ -1144,6 +1141,27 @@
         </mxCell>
         <mxCell id="H9sjeu-FvnLb2K0w9W8j-644" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
           <mxGeometry x="-586.5" y="2417.71" width="27.2" height="35.58" as="geometry" />
+        </mxCell>
+        <mxCell id="H9sjeu-FvnLb2K0w9W8j-646" value="&lt;a href=&quot;http://db.ops.ctripcorp.com/instancemgmt/detail/SVR28731IN5112/55945&quot; style=&quot;box-sizing: border-box ; color: rgb(64 , 169 , 255) ; background-color: transparent ; outline: 0px ; cursor: pointer ; transition: 0.3s ease 0s ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; white-space: normal&quot;&gt;10.60.53.178&lt;/a&gt;&amp;nbsp;（slave）" style="text;html=1;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="-44.5" y="2450" width="143.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="H9sjeu-FvnLb2K0w9W8j-647" value="&lt;a href=&quot;http://db.ops.ctripcorp.com/instancemgmt/detail/SVR24877HW1288/55945&quot; style=&quot;box-sizing: border-box ; color: rgb(24 , 144 , 255) ; background-color: transparent ; outline: 0px ; cursor: pointer ; transition: 0.3s ease 0s ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; white-space: normal&quot;&gt;10.25.88.52&lt;/a&gt;&lt;a href=&quot;http://db.ops.ctripcorp.com/instancemgmt/detail/SVR24877HW1288/55945&quot; style=&quot;box-sizing: border-box ; background-color: transparent ; outline: 0px ; cursor: pointer ; transition: all 0.3s ease 0s ; font-size: 14px&quot;&gt;&lt;font color=&quot;#000000&quot; face=&quot;calibri, sans-serif&quot;&gt;,&lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;http://db.ops.ctripcorp.com/instancemgmt/detail/SVR24878HW1288/55945&quot; style=&quot;box-sizing: border-box ; color: rgb(64 , 169 , 255) ; background-color: transparent ; outline: 0px ; cursor: pointer ; transition: 0.3s ease 0s ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 14px ; white-space: normal&quot;&gt;10.25.88.47&lt;/a&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="818" y="2452" width="143.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="H9sjeu-FvnLb2K0w9W8j-648" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=0.366;entryY=1.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H9sjeu-FvnLb2K0w9W8j-647" target="H9sjeu-FvnLb2K0w9W8j-646">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="922" y="2595" as="sourcePoint" />
+            <mxPoint x="19" y="2530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="2522" />
+              <mxPoint x="8" y="2522" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H9sjeu-FvnLb2K0w9W8j-649" value="同步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=4;" vertex="1" connectable="0" parent="H9sjeu-FvnLb2K0w9W8j-648">
+          <mxGeometry x="0.1298" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
