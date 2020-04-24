@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-04-24T09:18:45.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="VM1cdR8OZRnZJO4EY4X0" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-24T09:25:19.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="f3-QKiX09NdlgY7JoB6p" version="12.9.6" type="github">
   <diagram id="KRZDXByu6doUPED600xI" name="第 1 页">
     <mxGraphModel dx="1822" dy="713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ED9poW3Hxn3ZgU86maUU-40" value="营销业务" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="255" y="115" width="383" height="115" as="geometry" />
+          <mxGeometry x="255" y="124" width="383" height="106" as="geometry" />
         </mxCell>
         <mxCell id="ED9poW3Hxn3ZgU86maUU-39" value="主线业务" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-311" y="286.5" width="165" height="350" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="238" y="466" width="34" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ED9poW3Hxn3ZgU86maUU-30" value="&lt;b&gt;征信&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="491" y="420" width="121" height="60" as="geometry" />
+          <mxGeometry x="492" y="412" width="121" height="99" as="geometry" />
         </mxCell>
         <mxCell id="CSPdOCzLkxVM9AliIM8e-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ED9poW3Hxn3ZgU86maUU-31" target="Ds21OxBnK4pfxZvP541U-5">
           <mxGeometry relative="1" as="geometry" />
@@ -106,14 +106,14 @@
         <mxCell id="Ds21OxBnK4pfxZvP541U-5" value="&lt;b&gt;业务DB&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="613" width="121" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="CSPdOCzLkxVM9AliIM8e-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ds21OxBnK4pfxZvP541U-12" target="ED9poW3Hxn3ZgU86maUU-31">
+        <mxCell id="CSPdOCzLkxVM9AliIM8e-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Ds21OxBnK4pfxZvP541U-12" target="ED9poW3Hxn3ZgU86maUU-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CSPdOCzLkxVM9AliIM8e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ds21OxBnK4pfxZvP541U-12" target="ED9poW3Hxn3ZgU86maUU-1">
+        <mxCell id="CSPdOCzLkxVM9AliIM8e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Ds21OxBnK4pfxZvP541U-12" target="ED9poW3Hxn3ZgU86maUU-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ds21OxBnK4pfxZvP541U-12" value="&lt;b&gt;业务消息&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="6" y="253" width="121" height="58" as="geometry" />
+        <mxCell id="Ds21OxBnK4pfxZvP541U-12" value="&lt;b&gt;业务消息&lt;br&gt;&lt;font color=&quot;#ffccff&quot;&gt;授信、激活、贷款、退款、还款&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="6" y="271" width="121" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
